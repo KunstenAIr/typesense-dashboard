@@ -4,7 +4,7 @@
     "host":"typesense.railway.internal",
     "port":"8108",
     "protocol":"http",
-    "path":"",
+    "path":"/data",
     "tls":true
   }
 }
