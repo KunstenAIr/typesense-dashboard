@@ -1,9 +1,9 @@
 {
-  "apiKey": "xyz",
+  "apiKey": "ao7cgyfndo7629fxm1vwozw6vde4mn91",
   "node": {
-    "host":"somehost",
-    "port":"443",
-    "protocol":"https",
+    "host":"typesense.railway.internal",
+    "port":"8108",
+    "protocol":"http",
     "path":"",
     "tls":true
   }
