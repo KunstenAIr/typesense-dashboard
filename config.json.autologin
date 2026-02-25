@@ -3,7 +3,7 @@
   "node": {
     "host":"typesense.railway.internal",
     "port":"8108",
-    "protocol":"http",
+    "protocol":"https",
     "path":"/data",
     "tls":true
   }
